@@ -47,11 +47,6 @@
             <version>2.5.23</version>
         </dependency>
         <dependency>
-            <groupId>csl</groupId>
-            <artifactId>dataproclib</artifactId>
-            <version>1.6-SNAPSHOT</version>
-        </dependency>
-        <dependency>
             <groupId>com.esotericsoftware</groupId>
             <artifactId>kryo</artifactId>
             <version>5.0.0-RC1</version>
